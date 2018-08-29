@@ -1,0 +1,24 @@
+{
+  "name": "com_rep",
+  "description": "Blank Project",
+  "main": "Main.xaml",
+  "dependencies": {
+    "BalaReva.Excel.Activities": "3.0.1.0",
+    "ExcelFileToPDF.Activities": "1.0.0.0",
+    "Excel_Extensions": "1.0.1.0",
+    "UiPath.Core.Activities": "18.2.6716.31776",
+    "UiPath.Excel.Activities": "2.3.6682.26635",
+    "UiPathTeam.Excel.Extensions.Activities": "1.0.4.0",
+    "UiPathTeam.FileConverter.Activities": "0.0.6780.30254",
+    "UiPathTeam.XLExcel.Activities": "1.0.6758.28946",
+    "UpdateLinksExcel.Activities": "1.0.1.0"
+  },
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6808.27848",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
